@@ -1,0 +1,5 @@
+package ENUMS;
+
+public enum AllSubjects {
+    MATHEMATICS,ITALIAN, ENGLISH,HISTORY,ART,CHEMISTRY,IT
+}
